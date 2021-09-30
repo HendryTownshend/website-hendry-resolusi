@@ -3,4 +3,5 @@ Website Hendry Resolusi
 Saya ingin belajar untuk mengembangkan minat saya di bidang TI
 yaitu membuat project dan mengembangkan project.
 
-- Membuat project besar
+- Membuat project kominfo
+- Membuat project kampungku
